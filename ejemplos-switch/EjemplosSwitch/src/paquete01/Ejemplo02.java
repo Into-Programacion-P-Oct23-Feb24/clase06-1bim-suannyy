@@ -36,31 +36,38 @@ public class Ejemplo02 {
 
         switch (numeroDia) {
             case 1:
-                System.out.printf("Día %d es %s\n", numeroDia, "Lunes");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Lunes");
                 break;
 
             case 2:
-                System.out.printf("Día %d es %s\n", numeroDia, "Martes");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Martes");
                 break;
 
             case 3:
-                System.out.printf("Día %d es %s\n", numeroDia, "Miércoles");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Miércoles");
                 break;
 
             case 4:
-                System.out.printf("Día %d es %s\n", numeroDia, "Jueves");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Jueves");
                 break;
 
             case 5:
-                System.out.printf("Día %d es %s\n", numeroDia, "Viernes");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Viernes");
                 break;
 
             case 6:
-                System.out.printf("Día %d es %s\n", numeroDia, "Sábado");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Sábado");
                 break;
 
             case 7:
-                System.out.printf("Día %d es %s\n", numeroDia, "Domingo");
+                System.out.printf("Día %d es %s\n", numeroDia,
+                        "Domingo");
                 break;
 
             default:
