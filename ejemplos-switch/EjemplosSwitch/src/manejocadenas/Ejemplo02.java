@@ -15,6 +15,7 @@ public class Ejemplo02 {
         String pais;
         
         pais = "Ecuador";
+        
         char letra = pais.charAt(0);
         System.out.printf("%s\n", letra);
         
