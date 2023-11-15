@@ -18,6 +18,8 @@ public class Ejemplo02 {
         
         char letra = pais.charAt(0);
         System.out.printf("%s\n", letra);
+        /* el char sirve para indicar un caracter y en char se selecciona la 
+        del caracter a quitar */
         
     }
 }
